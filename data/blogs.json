@@ -1,0 +1,529 @@
+[
+  {
+    "slug": "ip-bp-usp-ep-grade-difference",
+    "title": "IP vs BP vs USP vs EP Grade: What's the Difference and Which Should You Use?",
+    "metaTitle": "IP vs BP vs USP vs EP Grade Explained | Surravi Phharma",
+    "metaDescription": "What is the difference between IP, BP, USP, and EP grades in pharmaceuticals? Learn which grade your formulation needs and why it matters for...",
+    "publishedAt": "2025-01-15",
+    "readingTime": "6 min",
+    "category": "Formulation Basics",
+    "excerpt": "One of the most common questions from pharmaceutical formulators in India is: which pharmacopoeial grade should I specify — IP, BP, USP, or EP? The answer depends on where your product is registered, who your end customer is, and what your formulation requires.",
+    "content": [
+      {
+        "type": "p",
+        "text": "One of the most common questions we receive from pharmaceutical formulators, procurement managers, and nutraceutical brands is: which grade should I order — IP, BP, USP, or EP? The short answer is that all four are equivalent in terms of purity and quality, but each is published by a different national or regional pharmacopoeia. The right choice depends on where your product will be registered and sold."
+      },
+      {
+        "type": "h2",
+        "text": "What is a Pharmacopoeia?"
+      },
+      {
+        "type": "p",
+        "text": "A pharmacopoeia is an official compendium of standards for medicines and pharmaceutical ingredients, published by a government or regulatory authority. It defines the tests, procedures, and acceptance criteria that a pharmaceutical ingredient must meet to be considered of acceptable quality. Using pharmacopoeial-grade materials is a core requirement of Good Manufacturing Practice (GMP) worldwide."
+      },
+      {
+        "type": "h2",
+        "text": "IP — Indian Pharmacopoeia"
+      },
+      {
+        "type": "p",
+        "text": "The Indian Pharmacopoeia (IP) is published by the Indian Pharmacopoeia Commission (IPC) under the Ministry of Health & Family Welfare. For any pharmaceutical product registered and sold in India under Schedule M of the Drugs & Cosmetics Act, excipients and APIs listed in the IP must comply with IP standards. IP is the default required grade for domestic Indian pharmaceutical formulations. If your product is only for the Indian market, IP grade is sufficient and is usually the most economical option."
+      },
+      {
+        "type": "h2",
+        "text": "BP — British Pharmacopoeia"
+      },
+      {
+        "type": "p",
+        "text": "The British Pharmacopoeia (BP) is published by the UK Medicines and Healthcare products Regulatory Agency (MHRA). BP grade is required for pharmaceutical products registered in the UK, Commonwealth countries, and many African and Middle Eastern markets that follow British pharmaceutical standards. BP grade materials are also widely accepted in India for export formulations and by multinational pharmaceutical companies operating manufacturing facilities in India."
+      },
+      {
+        "type": "h2",
+        "text": "EP — European Pharmacopoeia"
+      },
+      {
+        "type": "p",
+        "text": "The European Pharmacopoeia (Ph. Eur. or EP) is published by the European Directorate for the Quality of Medicines (EDQM) and is the mandatory standard for pharmaceutical products registered in all 37 European Pharmacopoeia member states. EP grade is required for products exported to the European Union. Importantly, the BP monographs for most excipients are aligned with EP monographs — so a material meeting BP generally meets EP as well."
+      },
+      {
+        "type": "h2",
+        "text": "USP — United States Pharmacopeia"
+      },
+      {
+        "type": "p",
+        "text": "The USP-NF (United States Pharmacopeia – National Formulary) is published by the United States Pharmacopoeial Convention and is required for pharmaceutical products registered with the US FDA. USP grade is mandatory for any product exported to the United States or manufactured to FDA-approved specifications. USP is also widely adopted globally by innovator pharmaceutical companies as their voluntary internal quality standard. For parenteral (injectable) formulations and high-purity applications, USP grade often has the most stringent endotoxin and particulate matter requirements."
+      },
+      {
+        "type": "h2",
+        "text": "Are IP, BP, EP, and USP grades chemically the same?"
+      },
+      {
+        "type": "p",
+        "text": "For most common pharmaceutical excipients and active ingredients, the quality of the material meeting any of these standards is functionally equivalent — all specify high purity, defined assay ranges, and strict limits on impurities, heavy metals, and microbiological contamination. The differences between pharmacopoeias are primarily in the specific test methods and acceptance criteria used to verify quality, not in the actual purity of the material itself."
+      },
+      {
+        "type": "p",
+        "text": "However, there are cases where specifications differ meaningfully. Mannitol IP and USP both require 98.0–102.0% assay, but differ in specific test methodologies. Some newer EP monographs have stricter elemental impurity limits following ICH Q3D guidelines. Always review the specific monograph for your ingredient if regulatory precision matters."
+      },
+      {
+        "type": "h2",
+        "text": "Which grade should you specify for Indian pharmaceutical manufacturing?"
+      },
+      {
+        "type": "p",
+        "text": "For domestic Indian formulations — IP grade is sufficient and is the most cost-effective choice. For export to UK and Commonwealth markets — specify BP. For export to Europe — specify EP (or BP, which is harmonised with EP for most monographs). For export to the USA or FDA-regulated formulations — specify USP. For multi-market products — specify USP/BP/EP, as these are the most globally accepted standards. Many manufacturers in India specify multi-pharmacopoeial compliance (e.g., IP/BP/USP compliant) to maintain flexibility."
+      },
+      {
+        "type": "h2",
+        "text": "What does Surravi Phharma supply?"
+      },
+      {
+        "type": "p",
+        "text": "We stock all major pharmaceutical excipients, vitamins, amino acids, and food ingredients in IP, BP, EP, and USP grades in our Hyderabad warehouse. Every batch is supplied with a Certificate of Analysis (COA) confirming compliance with the specified pharmacopoeia. Whether you need Mannitol IP for domestic tablet manufacturing or Citric Acid Anhydrous USP for an FDA-registered export product, we can supply the correct grade with same-day stock confirmation."
+      },
+      {
+        "type": "cta",
+        "text": "Browse our full product range or contact us at +91 8008002576 to discuss your grade requirements."
+      }
+    ],
+    "relatedSlugs": [
+      "mannitol",
+      "citric-acid-anhydrous",
+      "pvp-k30",
+      "lactose",
+      "hpmc-e5"
+    ],
+    "tags": [
+      "pharmacopoeia",
+      "IP grade",
+      "USP grade",
+      "BP grade",
+      "pharmaceutical excipients",
+      "regulatory compliance"
+    ]
+  },
+  {
+    "slug": "top-excipients-tablet-manufacturing-india",
+    "title": "Top 10 Pharmaceutical Excipients Used in Tablet Manufacturing in India",
+    "metaTitle": "Top 10 Pharma Excipients for Tablet Manufacturing | Surra...",
+    "metaDescription": "What are the most important pharmaceutical excipients for tablet manufacturing? This guide covers the top 10 excipients every formulation scientist in...",
+    "publishedAt": "2025-02-03",
+    "readingTime": "8 min",
+    "category": "Formulation Basics",
+    "excerpt": "Whether you are developing a direct compression tablet or a wet granulation formulation, these are the 10 pharmaceutical excipients that form the foundation of virtually every tablet made in India.",
+    "content": [
+      {
+        "type": "p",
+        "text": "India produces approximately 20% of the world's generic medicines by volume, making it the pharmacy of the world. At the heart of every tablet manufactured is a carefully selected blend of pharmaceutical excipients — inactive ingredients that determine the physical properties, manufacturing behaviour, stability, and patient acceptability of the final dosage form. Here are the 10 most important excipients for tablet manufacturing, all of which are stocked by Surravi Phharma in Hyderabad."
+      },
+      {
+        "type": "h2",
+        "text": "1. Mannitol — The Premier Direct Compression Diluent"
+      },
+      {
+        "type": "p",
+        "text": "Mannitol is the gold-standard diluent for orally disintegrating tablets (ODTs) and chewable tablets due to its non-hygroscopic nature, mild sweetness, cool mouthfeel, and excellent compressibility. At 98.0–102.0% assay, IP/BP/EP/USP grades are available. It is also used in injectable formulations as an osmotic agent. For any formulation requiring a non-cariogenic, diabetic-safe sweetener-diluent combination, Mannitol is the first choice."
+      },
+      {
+        "type": "h2",
+        "text": "2. Lactose Monohydrate — The Universal Tablet Filler"
+      },
+      {
+        "type": "p",
+        "text": "Lactose remains the most widely used pharmaceutical diluent globally. It is compatible with most APIs, cost-effective, and available in grades optimised for direct compression (spray-dried) and wet granulation. Its limitations — incompatibility with primary amines and unsuitability for lactose-intolerant patients — are well-known and easily managed through formulation design."
+      },
+      {
+        "type": "h2",
+        "text": "3. PVP K30 (Povidone K30) — The Versatile Binder"
+      },
+      {
+        "type": "p",
+        "text": "PVP K30 is the most commonly used binder in wet granulation, used at 2–5% dissolved in water or isopropyl alcohol. Beyond binding, it enhances dissolution of poorly soluble drugs by forming solid dispersions and inhibiting API recrystallisation. It is compatible with virtually every API and most other excipients, making it the first-choice binder for new tablet formulations."
+      },
+      {
+        "type": "h2",
+        "text": "4. HPMC (Hypromellose) — Film Coating and Sustained Release"
+      },
+      {
+        "type": "p",
+        "text": "HPMC serves two distinct roles depending on the viscosity grade. Low-viscosity grades (E5, E15) are film coating polymers used in aqueous coating systems. High-viscosity K-grades (K4M, K15M, K100M) are hydrophilic matrix formers for sustained-release tablets. HPMC is also the base material for vegetarian (HPMC) capsule shells, replacing gelatin in vegan and halal-compliant products."
+      },
+      {
+        "type": "h2",
+        "text": "5. Aerosil (Colloidal Silicon Dioxide) — The Essential Glidant"
+      },
+      {
+        "type": "p",
+        "text": "Used at just 0.1–0.5%, Aerosil dramatically improves powder flow by reducing interparticle friction. It is indispensable in direct compression formulations and for APIs with poor flow properties. Its high surface area (175–225 m²/g) also makes it an effective adsorbent for liquid APIs and a thickening agent in topical gels."
+      },
+      {
+        "type": "h2",
+        "text": "6. Citric Acid Anhydrous — Effervescent and Buffer Systems"
+      },
+      {
+        "type": "p",
+        "text": "Citric Acid Anhydrous is the primary acidulant in effervescent tablet and sachet formulations, reacting with Sodium Bicarbonate to produce CO₂. It is also used as a pH modifier, chelating agent, and taste enhancer in oral liquids. The anhydrous form is strongly preferred in effervescent manufacturing over the monohydrate to prevent premature acid-base reaction from moisture."
+      },
+      {
+        "type": "h2",
+        "text": "7. Talc — Lubricant and Anti-Adherent"
+      },
+      {
+        "type": "p",
+        "text": "Talc is a multi-functional excipient used as a glidant (improving flow), lubricant (reducing tablet-punch friction), and anti-adherent (preventing tablet sticking to punch faces). Used at 1–5% in tablet formulations, it is compatible with virtually all APIs and other excipients. It also acts as a diluent in some formulations."
+      },
+      {
+        "type": "h2",
+        "text": "8. Sucralose — High-Intensity Sweetener for Taste Masking"
+      },
+      {
+        "type": "p",
+        "text": "At 600× the sweetness of sucrose, Sucralose is the preferred sweetener for bitter API taste masking in chewable tablets, oral liquids, and dispersible formulations. It is calorie-free, diabetic-safe, pH-stable, and thermally stable — properties that make it ideal for both solid and liquid dosage forms. It is used at 0.01–0.05% concentration, adding negligible weight to formulations."
+      },
+      {
+        "type": "h2",
+        "text": "9. Maltodextrin — Spray Drying Carrier and Bulking Agent"
+      },
+      {
+        "type": "p",
+        "text": "Maltodextrin is the most widely used carrier in spray drying applications — used to convert liquid extracts, APIs, and nutraceutical ingredients into free-flowing powders. In tablet formulations it serves as a binder and diluent. In nutraceutical products it is the standard bulking agent in protein powders and meal replacements."
+      },
+      {
+        "type": "h2",
+        "text": "10. Sodium Bicarbonate — Effervescent and Antacid Applications"
+      },
+      {
+        "type": "p",
+        "text": "Sodium Bicarbonate (NaHCO₃) is the alkaline component of effervescent tablet systems, reacting with Citric or Malic Acid to generate CO₂. As an antacid API it neutralises gastric acid, making it both an active ingredient and an excipient depending on the formulation. It is also used as a pH modifier in oral liquid formulations."
+      },
+      {
+        "type": "h2",
+        "text": "Where to source these excipients in Hyderabad"
+      },
+      {
+        "type": "p",
+        "text": "Surravi Phharma stocks all 10 of these excipients — and more than 90 additional pharmaceutical raw materials — in IP, BP, EP, and USP grades in Hyderabad. Ready stock means no waiting for imports. Every batch comes with a full Certificate of Analysis (COA) and MSDS from the manufacturer."
+      },
+      {
+        "type": "cta",
+        "text": "Call +91 8008002576 or WhatsApp to check stock and pricing for any of these excipients."
+      }
+    ],
+    "relatedSlugs": [
+      "mannitol",
+      "lactose",
+      "pvp-k30",
+      "aerosil-colloidal-silicon-dioxide",
+      "citric-acid-anhydrous",
+      "sucralose",
+      "maltodextrin",
+      "talc",
+      "hpmc-e5",
+      "sodium-bicarbonate"
+    ],
+    "tags": [
+      "tablet manufacturing",
+      "pharmaceutical excipients",
+      "direct compression",
+      "wet granulation",
+      "formulation",
+      "Hyderabad"
+    ]
+  },
+  {
+    "slug": "gelatin-vs-hpmc-capsules",
+    "title": "Gelatin vs HPMC Capsules: Which Should You Choose for Your Product?",
+    "metaTitle": "Gelatin vs HPMC Capsules — Which is Better? | Surravi Phh...",
+    "metaDescription": "Gelatin vs HPMC (vegetarian) capsules — what is the difference? This guide helps you choose the right capsule shell for your pharmaceutical or...",
+    "publishedAt": "2025-02-20",
+    "readingTime": "7 min",
+    "category": "Formulation Basics",
+    "excerpt": "The choice between gelatin and HPMC (vegetarian) capsule shells is one of the most consequential decisions in pharmaceutical and nutraceutical product development. Here is everything you need to know.",
+    "content": [
+      {
+        "type": "p",
+        "text": "Hard shell capsules are one of the most widely used oral dosage forms globally. The choice between gelatin and HPMC (Hydroxypropyl Methylcellulose) capsules affects product performance, regulatory compliance, consumer acceptability, manufacturing efficiency, and cost. Here is a complete comparison to help you make the right decision for your product."
+      },
+      {
+        "type": "h2",
+        "text": "What are Gelatin Capsules?"
+      },
+      {
+        "type": "p",
+        "text": "Gelatin capsules are made from animal-derived gelatin — a protein obtained by partial hydrolysis of collagen from bovine (cattle) or porcine (pig) hides and bones. They have been the industry standard for pharmaceutical hard capsules for over 150 years. Gelatin capsule shells typically contain 13–16% moisture and have a smooth, transparent appearance. They are available in sizes 5 (smallest, ~0.13 mL) through 000 (largest, ~1.37 mL), and in both plain transparent and a wide range of opaque and two-tone colours."
+      },
+      {
+        "type": "h2",
+        "text": "What are HPMC Capsules?"
+      },
+      {
+        "type": "p",
+        "text": "HPMC capsules (also called vegetarian capsules, veggie caps, or hypromellose capsules) are made from Hydroxypropyl Methylcellulose — a semi-synthetic cellulose polymer derived from plant sources. They contain significantly less moisture (3–7%) than gelatin capsules and do not require animal-derived ingredients, making them suitable for vegetarian, vegan, halal, and kosher-certified products. HPMC is listed in the IP, BP, EP, and USP as an approved capsule shell material."
+      },
+      {
+        "type": "h2",
+        "text": "Key differences at a glance"
+      },
+      {
+        "type": "p",
+        "text": "Moisture content is the most practically significant difference: gelatin shells contain 13–16% moisture while HPMC shells contain only 3–7%. This makes HPMC capsules significantly more suitable for moisture-sensitive APIs — hygroscopic drugs, lyophilised powders, and formulations containing moisture-reactive excipients. Gelatin is more susceptible to cross-linking reactions when exposed to aldehydes (from excipients or packaging), which can form an insoluble pellicle that slows capsule dissolution significantly. HPMC does not undergo aldehyde cross-linking."
+      },
+      {
+        "type": "h2",
+        "text": "Consumer and regulatory acceptability"
+      },
+      {
+        "type": "p",
+        "text": "In India's context, HPMC capsules are increasingly preferred for nutraceutical and Ayurvedic products because a significant proportion of the Indian population is vegetarian. For products targeting Muslim consumers (where porcine gelatin is forbidden under halal dietary law) or Jewish consumers (kosher dietary law), HPMC is the required choice unless bovine halal-certified gelatin is specifically sourced and certified. For pharmaceutical prescription products in India, gelatin capsules are still the dominant format, but HPMC adoption is growing rapidly."
+      },
+      {
+        "type": "h2",
+        "text": "Manufacturing considerations"
+      },
+      {
+        "type": "p",
+        "text": "Gelatin capsules have better machinability than HPMC on legacy high-speed capsule filling machines — they have predictable locking geometry and are very consistent dimensionally. HPMC capsules may require machine setting adjustments, particularly at high speeds, and are generally slightly more expensive than equivalent gelatin capsules. Both are available from USFDA-approved manufacturing facilities with full pharmacopoeial compliance."
+      },
+      {
+        "type": "h2",
+        "text": "When to choose Gelatin"
+      },
+      {
+        "type": "p",
+        "text": "Choose gelatin capsules when: (1) your product is a prescription pharmaceutical for the Indian domestic market; (2) cost is a primary consideration; (3) your filling machinery is optimised for gelatin; (4) the API is not moisture-sensitive; (5) your product does not require vegetarian, vegan, halal, or kosher certification."
+      },
+      {
+        "type": "h2",
+        "text": "When to choose HPMC"
+      },
+      {
+        "type": "p",
+        "text": "Choose HPMC capsules when: (1) your product targets vegetarian or vegan consumers; (2) your product requires halal or kosher certification; (3) the API is moisture-sensitive (hygroscopic drugs, lyophilised powders); (4) the formulation contains aldehydic excipients that could cross-link gelatin; (5) you are developing nutraceuticals, Ayurvedic, or natural health products; (6) you are targeting export markets in Southeast Asia or the Middle East."
+      },
+      {
+        "type": "h2",
+        "text": "Surravi Phharma — Empty Capsule Supply in Hyderabad"
+      },
+      {
+        "type": "p",
+        "text": "We supply both Gelatin and HPMC empty capsule shells in sizes 00 to 5, manufactured at USFDA-approved facilities. Capsules are stored in our centralised AC warehouse to maintain optimal moisture content and dimensional stability. Both plain and coloured capsules are available. COA confirming disintegration time, moisture content, dimensions, and pharmacopoeial compliance is provided with every order."
+      },
+      {
+        "type": "cta",
+        "text": "Contact Surravi Phharma at +91 8008002576 to discuss capsule sizes, quantities, and pricing for your product."
+      }
+    ],
+    "relatedSlugs": [
+      "empty-capsules",
+      "hpmc-e5",
+      "hpmc-e15",
+      "mannitol",
+      "pvp-k30"
+    ],
+    "tags": [
+      "empty capsules",
+      "HPMC capsules",
+      "gelatin capsules",
+      "vegetarian capsules",
+      "nutraceuticals",
+      "pharmaceutical manufacturing"
+    ]
+  },
+  {
+    "slug": "whey-protein-types-wpc-wpi-wph-difference",
+    "title": "WPC vs WPI vs WPH: Complete Guide to Whey Protein Types for Supplement Manufacturing",
+    "metaTitle": "WPC vs WPI vs WPH Whey Protein Differences | Surravi Phharma",
+    "metaDescription": "What is the difference between Whey Protein Concentrate (WPC 80), Isolate (WPI 90), and Hydrolysate (WPH)? A complete guide for supplement and...",
+    "publishedAt": "2025-03-10",
+    "readingTime": "7 min",
+    "category": "Sports Nutrition",
+    "excerpt": "WPC, WPI, and WPH are three distinct forms of whey protein with different protein concentrations, processing methods, costs, and applications. If you are formulating protein supplements or functional food products, understanding these differences is essential.",
+    "content": [
+      {
+        "type": "p",
+        "text": "India's sports nutrition market is growing at over 15% annually, making whey protein the single most important raw material in the nutraceutical ingredients business. But whey protein is not one thing — it comes in three distinct forms (Concentrate, Isolate, and Hydrolysate) with very different compositions, manufacturing processes, functional properties, costs, and target applications. This guide explains the differences and helps you choose the right form for your product."
+      },
+      {
+        "type": "h2",
+        "text": "How Whey Protein is Made"
+      },
+      {
+        "type": "p",
+        "text": "All three whey protein forms start from the same source: cheese whey — the liquid byproduct of cheese manufacturing. Fresh whey is approximately 6% solids, of which protein is ~12% of those solids. To produce concentrated or isolated protein, the whey undergoes filtration and drying. The specific filtration technology and extent of processing determines whether you end up with WPC, WPI, or WPH."
+      },
+      {
+        "type": "h2",
+        "text": "Whey Protein Concentrate (WPC 80)"
+      },
+      {
+        "type": "p",
+        "text": "WPC 80 is produced by ultrafiltration of liquid whey, concentrating the protein while retaining fat and lactose. The '80' refers to 80% protein content on a dry weight basis. WPC 80 also contains 4–8% fat and 4–8% lactose. It retains naturally occurring bioactive compounds — immunoglobulins, lactoferrin, bovine serum albumin, and growth factors — that are partially removed in more highly processed forms. WPC 80 is the most cost-effective whey protein and is the dominant form used in India's mass-market protein supplement sector."
+      },
+      {
+        "type": "h2",
+        "text": "Whey Protein Isolate (WPI 90)"
+      },
+      {
+        "type": "p",
+        "text": "WPI 90 undergoes additional microfiltration or ion exchange processing after the WPC stage to remove most fat and lactose. WPI 90 contains NLT 90% protein, NMT 1% fat, and NMT 1% lactose. This makes it the preferred choice for lean muscle formulations, lactose-sensitive consumers, and premium protein products. The higher processing cost makes WPI approximately 1.5–2× more expensive than WPC 80. Cross-flow microfiltration (CFM) is the preferred processing method as it preserves native protein structure and avoids chemical treatment."
+      },
+      {
+        "type": "h2",
+        "text": "Whey Protein Hydrolysate (WPH)"
+      },
+      {
+        "type": "p",
+        "text": "WPH is produced by enzymatic hydrolysis of WPC or WPI — digestive enzymes (protease, peptidase) are added to break the protein into shorter peptide chains and free amino acids. The degree of hydrolysis (DH) ranges from 5–30% depending on the application. Partially hydrolysed WPH (DH 5–15%) is used in sports recovery formulations for faster amino acid absorption. Extensively hydrolysed WPH (DH 30%+) is used in hypoallergenic infant formula and clinical nutrition where intact milk proteins would cause allergic reactions. WPH is the most expensive whey form and has a characteristic bitter taste that must be masked in consumer products."
+      },
+      {
+        "type": "h2",
+        "text": "Nutritional and performance comparison"
+      },
+      {
+        "type": "p",
+        "text": "All three forms have a PDCAAS of 1.0 — the maximum possible protein quality score. The key differences are in absorption speed and protein concentration. WPH provides the fastest amino acid delivery (peak plasma levels in 60–80 minutes). WPI is next (80–100 minutes). WPC is the slowest of the three due to fat and lactose slightly slowing gastric emptying. For post-workout muscle protein synthesis, the speed difference is unlikely to be practically meaningful for recreational athletes — the research advantage of faster absorption is most relevant for elite athletes and clinical applications."
+      },
+      {
+        "type": "h2",
+        "text": "Which form should you use for your product?"
+      },
+      {
+        "type": "p",
+        "text": "For value protein powder targeting mass market — WPC 80 is the correct choice. For premium lean formula or lactose-sensitive range — WPI 90. For post-workout rapid recovery formula — WPH or WPC/WPI + WPH blend. For infant formula (hypoallergenic) or clinical enteral nutrition — extensively hydrolysed WPH. For protein-enriched food products (bars, cereals, bakery) — WPC 80 for economy, WPI 90 for higher protein content claim. Blends of WPC + WPI or WPC + WPH are commonly used to balance cost and performance."
+      },
+      {
+        "type": "h2",
+        "text": "Source Whey Protein in Hyderabad from Surravi Phharma"
+      },
+      {
+        "type": "p",
+        "text": "We supply WPC 80, WPI 90, and WPH in Hyderabad with ready stock available for immediate dispatch. All lots come with full COA including protein content, moisture, fat, lactose, ash, and microbiological parameters. We supply nutraceutical brands, sports nutrition companies, CDMO manufacturers, and food ingredient companies across pan India."
+      },
+      {
+        "type": "cta",
+        "text": "Call +91 8008002576 or WhatsApp for WPC/WPI/WPH pricing, samples, and COA."
+      }
+    ],
+    "relatedSlugs": [
+      "whey-protein-concentrate",
+      "whey-protein-isolate",
+      "whey-protein-hydrolysed",
+      "pea-protein",
+      "rice-protein",
+      "l-leucine"
+    ],
+    "tags": [
+      "whey protein",
+      "WPC 80",
+      "WPI 90",
+      "sports nutrition",
+      "protein supplement",
+      "nutraceuticals",
+      "Hyderabad"
+    ]
+  },
+  {
+    "slug": "pharmaceutical-colourants-tablet-coating-guide",
+    "title": "Complete Guide to Pharmaceutical Colourants for Tablet Coating in India",
+    "metaTitle": "Pharmaceutical Colourants for Tablet Coating Guide | Surr...",
+    "metaDescription": "A complete guide to pharmaceutical colourants for tablet film coating in India — iron oxides, synthetic dyes, lake vs dye, regulatory approval, and how...",
+    "publishedAt": "2025-03-25",
+    "readingTime": "9 min",
+    "category": "Formulation Basics",
+    "excerpt": "Choosing the right colourant for your tablet film coating system involves understanding the difference between dyes and lakes, regulatory approval in your target markets, stability, and compatibility with your coating system. This guide covers everything a formulation scientist needs to know.",
+    "content": [
+      {
+        "type": "p",
+        "text": "Pharmaceutical tablet colouring is not merely aesthetic — it serves critical functional purposes: product identification (preventing medication errors), counterfeiting deterrence, photosensitive API protection, and brand differentiation. But pharmaceutical colourants are tightly regulated, technically complex ingredients. This guide covers everything you need to know to make the right colourant selection for your tablet coating system."
+      },
+      {
+        "type": "h2",
+        "text": "Types of Pharmaceutical Colourants"
+      },
+      {
+        "type": "p",
+        "text": "Pharmaceutical colourants fall into two main categories: inorganic pigments and synthetic organic dyes. Inorganic pigments — Titanium Dioxide (white), Iron Oxides (red, yellow, black), and Mica — are the most widely used globally because of their superior stability, non-bleeding properties, and broad regulatory acceptance. Synthetic organic dyes (azo dyes and non-azo dyes) provide vivid colours not achievable with inorganic pigments but require more careful regulatory assessment for each target market."
+      },
+      {
+        "type": "h2",
+        "text": "Dye vs Lake — A Critical Distinction"
+      },
+      {
+        "type": "p",
+        "text": "Every synthetic pharmaceutical dye is available in two forms: the water-soluble dye form and the water-insoluble aluminium lake form. This distinction is critical for tablet film coating. Dye forms are water-soluble and used in sugar coating syrups and oral liquid formulations. In aqueous film coating systems (HPMC-based, Opadry), water-soluble dyes can migrate through the coating film during processing, causing uneven colour distribution and blotching. Aluminium lake pigments are insoluble at all pH levels — they are physically dispersed in the coating suspension rather than dissolved, and do not migrate. For HPMC aqueous film coating, always specify the lake form."
+      },
+      {
+        "type": "h2",
+        "text": "Titanium Dioxide — The Essential White Opacifier"
+      },
+      {
+        "type": "p",
+        "text": "No pharmaceutical film coating formulation is complete without Titanium Dioxide. As the sole approved white opacifier in pharmaceutical coatings, it provides the white base that all colour blends require for opacity and brightness. Without TiO₂, even heavily pigmented coatings appear translucent and dull. Standard use level is 1–5% of the coating formulation by weight. TiO₂ also provides valuable UV protection for photosensitive APIs such as nifedipine, furosemide, and riboflavin."
+      },
+      {
+        "type": "h2",
+        "text": "Iron Oxides — Regulatory Gold Standard"
+      },
+      {
+        "type": "p",
+        "text": "Iron Oxides (Red Fe₂O₃, Yellow FeO(OH), Black Fe₃O₄) are the most globally approved class of pharmaceutical colourants. They are listed in the IP, BP, EP, USP, JPCF (Japan), and are FD&C approved in the USA. They are stable across the pH range of all gastrointestinal segments, thermally stable up to 300°C, light-stable, and non-bleeding. For any tablet product with global market ambitions, iron oxides combined with TiO₂ should be the first-choice colour system. By blending the three iron oxides with TiO₂ in different proportions, the full range of brown, tan, peach, buff, pink, red, orange, cream, grey, and black tablet colours can be achieved."
+      },
+      {
+        "type": "h2",
+        "text": "Synthetic Dyes — Vivid Colours with Market-Specific Approval"
+      },
+      {
+        "type": "p",
+        "text": "When vivid blue, green, yellow, or red colours are required that cannot be achieved with iron oxides and TiO₂, synthetic dyes are used. The most commonly used in India are: Tartrazine E102 (lemon yellow), Sunset Yellow E110 (orange yellow), Ponceau 4R E124 (strawberry red), Erythrosine E127 (cherry red), Brilliant Blue E133 (sky blue), and Allura Red E129 (bright red). Quinoline Yellow E104 provides a greenish-yellow shade. Green colours are produced by blending Tartrazine and Brilliant Blue."
+      },
+      {
+        "type": "h2",
+        "text": "Regulatory approval — India vs USA vs Europe"
+      },
+      {
+        "type": "p",
+        "text": "This is where tablet colourant selection gets complicated for export products. All iron oxides and TiO₂ are globally approved. Allura Red (E129/FD&C Red 40) and Brilliant Blue (E133/FD&C Blue 1) are approved in both the USA and EU — the safest choice for multi-market products. Tartrazine (E102/FD&C Yellow 5) and Sunset Yellow (E110/FD&C Yellow 6) are approved in the USA and EU but require allergen labelling. Ponceau 4R (E124) and Quinoline Yellow (E104) are NOT approved in the USA — products using these cannot be exported to American markets. Erythrosine (E127/FD&C Red 3) has restricted use in the USA. Always verify colourant approval status for every target market before finalising your formulation."
+      },
+      {
+        "type": "h2",
+        "text": "Building a colour from scratch — practical guide"
+      },
+      {
+        "type": "p",
+        "text": "Start with TiO₂ at 1–3% for opacity. Add iron oxides or lake dyes at 0.5–3% to achieve your target shade. Use iron oxides for beige, brown, orange, grey, and black-adjacent colours. Use lake dyes for vivid yellow, green, blue, and red. Fine-tune the ratio in small test batches before scaling. For standard HPMC aqueous coating systems (Opadry equivalent), prepare a 15–20% w/w coating suspension: dissolve/disperse HPMC E5 or E15 in water, add TiO₂, add lake pigments, add plasticiser (PEG 400 or triacetin at 20% of polymer weight), and homogenise."
+      },
+      {
+        "type": "h2",
+        "text": "Source Pharmaceutical Colourants in Hyderabad"
+      },
+      {
+        "type": "p",
+        "text": "Surravi Phharma stocks Titanium Dioxide, Red/Yellow/Black Iron Oxide, Mica, and the full range of synthetic dyes and lakes — Sunset Yellow, Erythrosine, Ponceau 4R, Tartrazine, Brilliant Blue, Quinoline Yellow, and Allura Red — in Hyderabad. Both dye form and aluminium lake form are available for all synthetic colours. All lots are supplied with manufacturer COA confirming dye content, heavy metal limits, and pharmacopoeial compliance."
+      },
+      {
+        "type": "cta",
+        "text": "Call +91 8008002576 or WhatsApp to discuss your tablet coating colour requirements and request samples."
+      }
+    ],
+    "relatedSlugs": [
+      "titanium-dioxide",
+      "red-iron-oxide",
+      "yellow-iron-oxide",
+      "black-iron-oxide",
+      "tartrazine",
+      "brilliant-blue",
+      "sunset-yellow",
+      "allura-red",
+      "hpmc-e5"
+    ],
+    "tags": [
+      "tablet coating",
+      "pharmaceutical colourants",
+      "iron oxide",
+      "lake colours",
+      "film coating",
+      "Titanium Dioxide",
+      "Hyderabad"
+    ]
+  }
+]
