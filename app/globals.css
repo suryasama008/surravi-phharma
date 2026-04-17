@@ -836,7 +836,7 @@ details[open] .faq-q::after { content: '−'; }
 
 /* ── NAV BAR ── */
 .sp-navbar {
-  background: transparent;
+  background: #1a56db;
 }
 .sp-navbar-inner {
   display: flex; align-items: center; flex-wrap: wrap;
@@ -846,21 +846,21 @@ details[open] .faq-q::after { content: '−'; }
   display: inline-block;
   padding: 12px 16px;
   font-size: 0.87rem; font-weight: 600;
-  color: #0f172a;
+  color: rgba(255,255,255,0.85);
   text-decoration: none;
   transition: background 0.15s, color 0.15s;
   white-space: nowrap;
 }
-.sp-nav-link:hover { background: rgba(15,23,42,0.08); color: #0f172a; }
-.sp-nav-link.active { background: none; color: #1e3a8a; }
+.sp-nav-link:hover { background: rgba(255,255,255,0.12); color: #fff; }
+.sp-nav-link.active { background: rgba(255,255,255,0.18); color: #fff; }
 
 /* Highlighted nav items (API, Oils & Butters) */
 .sp-nav-link.highlight {
-  color: #0f172a;
+  color: #fde68a;
   font-weight: 700;
 }
-.sp-nav-link.highlight:hover { background: rgba(15,23,42,0.08); color: #0f172a; }
-.sp-nav-link.highlight.active { background: none; color: #1e3a8a; }
+.sp-nav-link.highlight:hover { background: rgba(255,255,255,0.15); color: #fef3c7; }
+.sp-nav-link.highlight.active { background: rgba(255,255,255,0.2); color: #fef3c7; }
 
 /* Mobile nav */
 @media (max-width: 768px) {

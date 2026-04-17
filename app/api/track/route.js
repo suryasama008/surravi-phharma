@@ -2,11 +2,11 @@ import { NextResponse } from 'next/server';
 import { createServiceClient } from '@/lib/supabase';
 
 // POST /api/track
-// body: { type: 'page_view' | 'enquiry_click' | 'whatsapp_click' | 'call_click', page?: string, product?: string }
+// body: { type, page?, product?, referrer?, source? }
 export async function POST(request) {
   try {
     const body = await request.json();
-    const { type, page, product, referrer } = body;
+    const { type, page, product, referrer, source } = body;
 
     if (!type) return NextResponse.json({ ok: false }, { status: 400 });
 
@@ -14,9 +14,10 @@ export async function POST(request) {
 
     await supabase.from('analytics_events').insert([{
       type,
-      page:    page || null,
-      product: product || null,
+      page:     page || null,
+      product:  product || null,
       referrer: referrer || null,
+      source:   source || 'direct',
     }]);
 
     return NextResponse.json({ ok: true });

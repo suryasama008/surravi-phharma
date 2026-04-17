@@ -22,6 +22,11 @@ export default function Nav() {
   const navLinks = [
     { href: '/', label: 'Home' },
     { href: '/products', label: 'Products' },
+    { href: '/products/api', label: 'API', highlight: true },
+    { href: '/products/excipients', label: 'Excipients' },
+    { href: '/products/oils-butters', label: 'Oils & Butters', highlight: true },
+    { href: '/products/vitamins', label: 'Vitamins' },
+    { href: '/products/amino-acids', label: 'Amino Acids' },
     { href: '/blog', label: 'Blog' },
     { href: '/#about', label: 'About' },
     { href: '/#enquiry', label: 'Enquiry' },
