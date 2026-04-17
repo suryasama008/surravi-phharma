@@ -94,7 +94,7 @@ export default function ProductSearch({ products, categories, categoryConfig }) 
       {/* Product listing */}
       {filtered.length === 0 ? (
         <div className="prod-empty">
-          <p>No products found for <strong>"{query}"</strong>. Try a different search term or browse a category.</p>
+          <p>No products found for <strong>&ldquo;{query}&rdquo;</strong>. Try a different search term or browse a category.</p>
         </div>
       ) : (
         categoryOrder
