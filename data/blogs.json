@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "ip-bp-usp-ep-grade-difference",
+    "title": "IP vs BP vs USP vs EP Grade: What's the Difference and Which Should You Use?",
+    "metaTitle": "IP vs BP vs USP vs EP Grade Explained | Surravi Phharma",
+    "metaDescription": "What is the difference between IP, BP, USP, and EP grades in pharmaceuticals? Learn which grade your formulation needs and why it matters for...",
+    "publishedAt": "2025-01-15",
+    "readingTime": "6 min",
+    "category": "Formulation Basics",
+    "excerpt": "One of the most common questions from pharmaceutical formulators in India is: which pharmacopoeial grade should I specify — IP, BP, USP, or EP? The answer depends on where your product is registered, who your end customer is, and what your formulation requires.",
+    "content": [
+      {
+        "type": "p",
+        "text": "One of the most common questions we receive from pharmaceutical formulators, procurement managers, and nutraceutical brands is: which grade should I order — IP, BP, USP, or EP? The short answer is that all four are equivalent in terms of purity and quality, but each is published by a different national or regional pharmacopoeia. The right choice depends on where your product will be registered and sold.."
+      },
+      {
+        "type": "h2",
+        "text": "What is a Pharmacopoeia?"
+      },
+      {
+        "type": "p",
+        "text": "A pharmacopoeia is an official compendium of standards for medicines and pharmaceutical ingredients, published by a government or regulatory authority. It defines the tests, procedures, and acceptance criteria that a pharmaceutical ingredient must meet to be considered of acceptable quality. Using pharmacopoeial-grade materials is a core requirement of Good Manufacturing Practice (GMP) worldwide."
+      },
+      {
+        "type": "h2",
+        "text": "IP — Indian Pharmacopoeia"
+      },
+      {
+        "type": "p",
+        "text": "The Indian Pharmacopoeia (IP) is published by the Indian Pharmacopoeia Commission (IPC) under the Ministry of Health & Family Welfare. For any pharmaceutical product registered and sold in India under Schedule M of the Drugs & Cosmetics Act, excipients and APIs listed in the IP must comply with IP standards. IP is the default required grade for domestic Indian pharmaceutical formulations. If your product is only for the Indian market, IP grade is sufficient and is usually the most economical option."
+      },
+      {
+        "type": "h2",
+        "text": "BP — British Pharmacopoeia"
+      },
+      {
+        "type": "p",
+        "text": "The British Pharmacopoeia (BP) is published by the UK Medicines and Healthcare products Regulatory Agency (MHRA). BP grade is required for pharmaceutical products registered in the UK, Commonwealth countries, and many African and Middle Eastern markets that follow British pharmaceutical standards. BP grade materials are also widely accepted in India for export formulations and by multinational pharmaceutical companies operating manufacturing facilities in India."
+      },
+      {
+        "type": "h2",
+        "text": "EP — European Pharmacopoeia"
+      },
+      {
+        "type": "p",
+        "text": "The European Pharmacopoeia (Ph. Eur. or EP) is published by the European Directorate for the Quality of Medicines (EDQM) and is the mandatory standard for pharmaceutical products registered in all 37 European Pharmacopoeia member states. EP grade is required for products exported to the European Union. Importantly, the BP monographs for most excipients are aligned with EP monographs — so a material meeting BP generally meets EP as well."
+      },
+      {
+        "type": "h2",
+        "text": "USP — United States Pharmacopeia"
+      },
+      {
+        "type": "p",
+        "text": "The USP-NF (United States Pharmacopeia – National Formulary) is published by the United States Pharmacopoeial Convention and is required for pharmaceutical products registered with the US FDA. USP grade is mandatory for any product exported to the United States or manufactured to FDA-approved specifications. USP is also widely adopted globally by innovator pharmaceutical companies as their voluntary internal quality standard. For parenteral (injectable) formulations and high-purity applications, USP grade often has the most stringent endotoxin and particulate matter requirements."
+      },
+      {
+        "type": "h2",
+        "text": "Are IP, BP, EP, and USP grades chemically the same?"
+      },
+      {
+        "type": "p",
+        "text": "For most common pharmaceutical excipients and active ingredients, the quality of the material meeting any of these standards is functionally equivalent — all specify high purity, defined assay ranges, and strict limits on impurities, heavy metals, and microbiological contamination. The differences between pharmacopoeias are primarily in the specific test methods and acceptance criteria used to verify quality, not in the actual purity of the material itself."
+      },
+      {
+        "type": "p",
+        "text": "However, there are cases where specifications differ meaningfully. Mannitol IP and USP both require 98.0–102.0% assay, but differ in specific test methodologies. Some newer EP monographs have stricter elemental impurity limits following ICH Q3D guidelines. Always review the specific monograph for your ingredient if regulatory precision matters."
+      },
+      {
+        "type": "h2",
+        "text": "Which grade should you specify for Indian pharmaceutical manufacturing?"
+      },
+      {
+        "type": "p",
+        "text": "For domestic Indian formulations — IP grade is sufficient and is the most cost-effective choice. For export to UK and Commonwealth markets — specify BP. For export to Europe — specify EP (or BP, which is harmonised with EP for most monographs). For export to the USA or FDA-regulated formulations — specify USP. For multi-market products — specify USP/BP/EP, as these are the most globally accepted standards. Many manufacturers in India specify multi-pharmacopoeial compliance (e.g., IP/BP/USP compliant) to maintain flexibility."
+      },
+      {
+        "type": "h2",
+        "text": "What does Surravi Phharma supply?"
+      },
+      {
+        "type": "p",
+        "text": "We stock all major pharmaceutical excipients, vitamins, amino acids, and food ingredients in IP, BP, EP, and USP grades in our Hyderabad warehouse. Every batch is supplied with a Certificate of Analysis (COA) confirming compliance with the specified pharmacopoeia. Whether you need Mannitol IP for domestic tablet manufacturing or Citric Acid Anhydrous USP for an FDA-registered export product, we can supply the correct grade with same-day stock confirmation."
+      },
+      {
+        "type": "cta",
+        "text": "Browse our full product range or contact us at +91 8008002576 to discuss your grade requirements."
+      }
+    ],
+    "relatedSlugs": [
+      "mannitol",
+      "citric-acid-anhydrous",
+      "pvp-k30",
+      "lactose",
+      "hpmc-e5"
+    ],
+    "tags": [
+      "pharmacopoeia",
+      "IP grade",
+      "USP grade",
+      "BP grade",
+      "pharmaceutical excipients",
+      "regulatory compliance"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "surraviphharma.com"
+        }
+      ],
+      "destination": "https://www.surraviphharma.com/:path*",
+      "permanent": true
+    }
+  ]
+}
