@@ -6270,9 +6270,9 @@
   },
   {
     "slug": "peg-200",
-    "name": "Polyethylene Glycol 200",
-    "category": "polyethylene-glycols",
-    "categoryLabel": "Polyethylene Glycols",
+    "name": "Polyethylene Glycol 200 (PEG 200)",
+    "category": "excipients",
+    "categoryLabel": "Excipients",
     "grades": [],
     "readyStock": true,
     "cas": "25322-68-3",
@@ -6329,9 +6329,9 @@
   },
   {
     "slug": "peg-300",
-    "name": "Polyethylene Glycol 300",
-    "category": "polyethylene-glycols",
-    "categoryLabel": "Polyethylene Glycols",
+    "name": "Polyethylene Glycol 300 (PEG 300)",
+    "category": "excipients",
+    "categoryLabel": "Excipients",
     "grades": [],
     "readyStock": true,
     "cas": "25322-68-3",
@@ -6388,9 +6388,9 @@
   },
   {
     "slug": "peg-400",
-    "name": "Polyethylene Glycol 400",
-    "category": "polyethylene-glycols",
-    "categoryLabel": "Polyethylene Glycols",
+    "name": "Polyethylene Glycol 400 (PEG 400)",
+    "category": "excipients",
+    "categoryLabel": "Excipients",
     "grades": [
       "IP",
       "BP",
@@ -6451,9 +6451,9 @@
   },
   {
     "slug": "peg-600",
-    "name": "Polyethylene Glycol 600",
-    "category": "polyethylene-glycols",
-    "categoryLabel": "Polyethylene Glycols",
+    "name": "Polyethylene Glycol 600 (PEG 600)",
+    "category": "excipients",
+    "categoryLabel": "Excipients",
     "grades": [],
     "readyStock": true,
     "cas": "25322-68-3",
@@ -6510,9 +6510,9 @@
   },
   {
     "slug": "peg-1500",
-    "name": "Polyethylene Glycol 1500",
-    "category": "polyethylene-glycols",
-    "categoryLabel": "Polyethylene Glycols",
+    "name": "Polyethylene Glycol 1500 (PEG 1500)",
+    "category": "excipients",
+    "categoryLabel": "Excipients",
     "grades": [
       "IP",
       "BP",
@@ -6573,9 +6573,9 @@
   },
   {
     "slug": "peg-3350",
-    "name": "Polyethylene Glycol 3350",
-    "category": "polyethylene-glycols",
-    "categoryLabel": "Polyethylene Glycols",
+    "name": "Polyethylene Glycol 3350 (PEG 3350)",
+    "category": "excipients",
+    "categoryLabel": "Excipients",
     "grades": [
       "IP",
       "BP",
@@ -6636,9 +6636,9 @@
   },
   {
     "slug": "peg-4000",
-    "name": "Polyethylene Glycol 4000",
-    "category": "polyethylene-glycols",
-    "categoryLabel": "Polyethylene Glycols",
+    "name": "Polyethylene Glycol 4000 (PEG 4000)",
+    "category": "excipients",
+    "categoryLabel": "Excipients",
     "grades": [
       "IP",
       "BP",
@@ -6699,9 +6699,9 @@
   },
   {
     "slug": "peg-6000",
-    "name": "Polyethylene Glycol 6000",
-    "category": "polyethylene-glycols",
-    "categoryLabel": "Polyethylene Glycols",
+    "name": "Polyethylene Glycol 6000 (PEG 6000)",
+    "category": "excipients",
+    "categoryLabel": "Excipients",
     "grades": [
       "IP",
       "BP",
@@ -6762,9 +6762,9 @@
   },
   {
     "slug": "peg-8000",
-    "name": "Polyethylene Glycol 8000",
-    "category": "polyethylene-glycols",
-    "categoryLabel": "Polyethylene Glycols",
+    "name": "Polyethylene Glycol 8000 (PEG 8000)",
+    "category": "excipients",
+    "categoryLabel": "Excipients",
     "grades": [],
     "readyStock": true,
     "cas": "25322-68-3",
