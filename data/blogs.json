@@ -101,5 +101,113 @@
       "pharmaceutical excipients",
       "regulatory compliance"
     ]
+  },
+  {
+  "slug": "how-to-read-certificate-of-analysis-coa-pharmaceutical-ingredients",
+  "title": "How to Read a Certificate of Analysis (COA) for Pharmaceutical Ingredients",
+  "metaTitle": "How to Read a COA: Pharma Ingredient Guide | Surravi Phharma",
+  "metaDescription": "Learn how to read a Certificate of Analysis (COA) for pharma excipients and APIs. Key sections, red flags to check, and what to verify before you accept a batch.",
+  "publishedAt": "2026-09-29",
+  "readingTime": "6 min",
+  "category": "Quality & Compliance",
+  "excerpt": "Every batch of a pharmaceutical ingredient should arrive with a Certificate of Analysis, but many buyers only check that the document exists. Here is how to actually read a COA and spot problems before the material reaches your production floor.",
+  "content": [
+    {
+      "type": "p",
+      "text": "When a shipment of excipients or active ingredients arrives at your facility, the Certificate of Analysis (COA) is the first document your quality team will ask for. Yet in our experience supplying manufacturers across India, many buyers only confirm that a COA is attached, without checking whether it actually proves the material is fit for use. This guide explains what a COA contains, how to read it, and what to check before you release a batch."
+    },
+    {
+      "type": "h2",
+      "text": "What is a Certificate of Analysis?"
+    },
+    {
+      "type": "p",
+      "text": "A Certificate of Analysis is a batch-specific quality document issued by the manufacturer's quality control laboratory. It lists the tests performed on a particular batch, the acceptance limits for each test, and the actual results obtained. It is not a general product brochure. A COA belongs to one batch, and it should be traceable to that batch through the batch or lot number printed on the container label."
+    },
+    {
+      "type": "h2",
+      "text": "Key sections of a COA"
+    },
+    {
+      "type": "p",
+      "text": "Header details: The top of the COA should show the product name, grade or pharmacopoeial standard (for example IP, BP, EP or USP), batch or lot number, manufacturing date, expiry or retest date, and the name and address of the manufacturer. If any of these are missing, ask for a corrected document."
+    },
+    {
+      "type": "p",
+      "text": "Tests and specifications: This is a table listing each test, such as description, identification, assay, loss on drying, pH, heavy metals, residue on ignition and microbial limits. The specification column shows the acceptable range, and the result column shows what was measured for this batch."
+    },
+    {
+      "type": "p",
+      "text": "Test method reference: A reliable COA states the method used for each test, usually by referring to the relevant pharmacopoeial monograph or an in-house validated method. This tells you what standard the results are measured against."
+    },
+    {
+      "type": "p",
+      "text": "Approval and signature: The COA should be signed or authorised by a quality control or quality assurance representative, with a date. An unsigned or undated COA carries little weight during an audit."
+    },
+    {
+      "type": "h2",
+      "text": "How to check the results"
+    },
+    {
+      "type": "p",
+      "text": "Start by matching the batch number on the COA to the batch number on the drums, bags or cartons you received. Then compare every result against its specification. A result must fall within the stated limit, and the pharmacopoeia named on the COA must be the one you ordered. For example, if you ordered a USP grade material, a COA that references only an in-house specification is not sufficient."
+    },
+    {
+      "type": "p",
+      "text": "Next, check the dates. Confirm that the manufacturing date and expiry or retest date are reasonable and leave you enough shelf life for your production plan. Finally, check that the assay and impurity results are reported as actual values rather than just the word Complies. Numerical results give your team something to trend from batch to batch."
+    },
+    {
+      "type": "h2",
+      "text": "Red flags to watch for"
+    },
+    {
+      "type": "p",
+      "text": "Be cautious if the COA has no batch number, if the batch number does not match the material, if all results sit exactly on the specification limit, or if the document looks edited or is a low-quality copy. Also watch for a COA that lists no test methods, no manufacturer details, or a pharmacopoeia edition that differs from what you specified. Any of these is a reason to pause and ask your supplier for clarification."
+    },
+    {
+      "type": "h2",
+      "text": "Manufacturer COA vs supplier COA"
+    },
+    {
+      "type": "p",
+      "text": "Distributors and importers often pass on the original manufacturer's COA. This is normal and is what most regulated buyers expect, because it traces the batch back to the site that made and tested it. Some buyers also carry out their own incoming quality control testing on top of the COA, which is good practice for critical materials. A COA reduces risk, but it does not replace your own sampling and verification procedures."
+    },
+    {
+      "type": "h2",
+      "text": "Documents that should accompany the COA"
+    },
+    {
+      "type": "p",
+      "text": "Depending on your product and regulatory needs, you may also request a Material Safety Data Sheet (MSDS), a Technical Data Sheet (TDS), a GMP or manufacturing licence copy, and a declaration of origin. Asking for these at the time of supplier qualification saves time later, especially during customer or regulatory audits."
+    },
+    {
+      "type": "h2",
+      "text": "COA support from Surravi Phharma"
+    },
+    {
+      "type": "p",
+      "text": "Every batch we supply is accompanied by a Certificate of Analysis confirming compliance with the pharmacopoeial grade you specify. If you need to review a COA before placing an order, or you have questions about a document you have already received, our team is happy to walk you through it."
+    },
+    {
+      "type": "cta",
+      "text": "Browse our full product range or contact us at +91 8008002576 to request a sample COA for the ingredient you need."
+    }
+  ],
+  "relatedSlugs": [
+    "ip-bp-usp-ep-grade-difference",
+    "mannitol",
+    "citric-acid-anhydrous",
+    "lactose",
+    "pvp-k30"
+  ],
+  "tags": [
+    "certificate of analysis",
+    "COA",
+    "pharmaceutical quality",
+    "pharmaceutical excipients",
+    "GMP",
+    "supplier qualification"
+  ]
   }
+  
 ]
