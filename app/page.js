@@ -4,6 +4,7 @@ import { getAllCategories, getAllProducts } from '@/lib/products';
 import { SITE, CATEGORIES } from '@/lib/config';
 import EnquiryForm from '@/components/EnquiryForm';
 import PageTracker from '@/components/PageTracker';
+import CatalogueDownload from '@/components/CatalogueDownload';
 
 const CATEGORY_IMAGES = {
   'api': '/images/categories/api.webp',
@@ -176,6 +177,9 @@ export default async function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* ── CATALOGUE DOWNLOAD + QR ── */}
+      <CatalogueDownload />
 
       {/* ── ABOUT ── */}
       <section className="section section-alt" id="about">

@@ -19,6 +19,11 @@ export default function Footer() {
           <h4>Quick Links</h4>
           <ul>
             <li><Link href="/products">All Products</Link></li>
+            <li>
+              <a href="/catalogue/Surravi-Phharma-Product-Catalogue.pdf" download>
+                Download Catalogue (PDF)
+              </a>
+            </li>
             <li><Link href="/blog">Blog</Link></li>
             <li><Link href="/#about">About Us</Link></li>
             <li><Link href="/#enquiry">Enquiry</Link></li>
